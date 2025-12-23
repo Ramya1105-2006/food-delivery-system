@@ -1,0 +1,340 @@
+{
+  "placeholderImages": [
+    {
+      "id": "restaurant-rest_south_01",
+      "description": "A traditional South Indian restaurant setting.",
+      "imageUrl": "https://assets.vogue.com/photos/63d169f727f1d528635b4287/16:9/w_1280,c_limit/GettyImages-1292563627.jpg",
+      "imageHint": "indian restaurant"
+    },
+    {
+      "id": "restaurant-rest_north_01",
+      "description": "A rustic and lively Punjabi dhaba.",
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.ocNKTL8uqO6_ChGn6RMJ6gHaD4?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "imageHint": "punjabi dhaba"
+    },
+    {
+      "id": "restaurant-rest_biryani_01",
+      "description": "An elegant restaurant specializing in Biryani.",
+      "imageUrl": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/11/fa6be68d80b1f9676ece11173a8b6ded1697004727372557_original.jpg",
+      "imageHint": "mughlai restaurant"
+    },
+    {
+      "id": "restaurant-rest_street_01",
+      "description": "A bustling Indian street food stall.",
+      "imageUrl": "https://tildaricelive.s3.eu-central-1.amazonaws.com/wp-content/uploads/2024/07/11111642/Street-food-2440x1470.jpeg",
+      "imageHint": "street food"
+    },
+    {
+      "id": "restaurant-rest_snacks_01",
+      "description": "A modern cafe serving snacks.",
+      "imageUrl": "https://clubmahindra.gumlet.io/blog/media/section_images/desktop-2f5b59f667cd19e.jpg?w=376&dpr=2.6",
+      "imageHint": "snack cafe"
+    },
+    {
+      "id": "restaurant-rest_dessert_01",
+      "description": "A cozy dessert shop with a variety of sweets.",
+      "imageUrl": "https://images7.alphacoders.com/396/396289.jpg",
+      "imageHint": "dessert shop"
+    },
+    {
+      "id": "menu-masala-dosa",
+      "description": "A golden crispy Masala Dosa.",
+      "imageUrl": "https://palatesdesire.com/wp-content/uploads/2022/09/Mysore-masala-dosa-recipe@palates-desire.jpg",
+      "imageHint": "masala dosa"
+    },
+    {
+      "id": "menu-plain-dosa",
+      "description": "A golden crispy Plain Dosa.",
+      "imageUrl": "https://oventales.com/wp-content/uploads/2017/05/Plain-Dosa002.jpg",
+      "imageHint": "plain dosa"
+    },
+    {
+      "id": "menu-idli",
+      "description": "Soft and fluffy Idlis with Sambar and chutney.",
+      "imageUrl": "https://www.healthifyme.com/blog/wp-content/uploads/2018/03/idly2.jpeg",
+      "imageHint": "idli sambar"
+    },
+    {
+      "id": "menu-pongal",
+      "description": "A bowl of delicious pongal.",
+      "imageUrl": "https://i.pinimg.com/originals/38/90/7d/38907d97723bce44e0bbb4a6d5bd3e37.jpg",
+      "imageHint": "pongal"
+    },
+    {
+      "id": "menu-uttapam",
+      "description": "A vegetable uttapam.",
+      "imageUrl": "https://www.cookingcarnival.com/wp-content/uploads/2022/02/Uttapam-recipe.jpg",
+      "imageHint": "uttapam"
+    },
+    {
+      "id": "menu-paneer-butter-masala",
+      "description": "Creamy Paneer Butter Masala.",
+      "imageUrl": "https://i0.wp.com/www.cookingfromheart.com/wp-content/uploads/2016/10/Paneer-Butter-Masala-3.jpg?resize=683%2C1024",
+      "imageHint": "paneer masala"
+    },
+    {
+      "id": "menu-chicken-biryani",
+      "description": "Aromatic Chicken Dum Biryani.",
+      "imageUrl": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg",
+      "imageHint": "chicken biryani"
+    },
+    {
+      "id": "menu-mutton-biryani",
+      "description": "Rich and flavorful Mutton Biryani.",
+      "imageUrl": "https://bonmasala.com/wp-content/uploads/2022/10/mutton-biriyani-recipe.jpeg",
+      "imageHint": "mutton biryani"
+    },
+    {
+      "id": "menu-veg-biryani",
+      "description": "Colorful and aromatic Vegetable Biryani.",
+      "imageUrl": "https://www.whiskaffair.com/wp-content/uploads/2020/08/Veg-Biryani-2-3.jpg",
+      "imageHint": "vegetable biryani"
+    },
+    {
+      "id": "menu-pani-puri",
+      "description": "A plate of delicious Pani Puri.",
+      "imageUrl": "https://www.foodandwine.com/thmb/nf6PnOESqq7ZAbs0k0kTq3QtW4I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Pani-Puri-FT-RECIPE1123-3702b6eb08c2478fb3a2343821aef71e.jpg",
+      "imageHint": "pani puri"
+    },
+    {
+      "id": "menu-samosa-chaat",
+      "description": "Spicy and tangy Samosa Chaat.",
+      "imageUrl": "http://tomatoblues.com/wp-content/uploads/2012/10/thattai-chat1.jpg",
+      "imageHint": "samosa chaat"
+    },
+    {
+      "id": "menu-gulab-jamun",
+      "description": "Warm Gulab Jamuns in syrup.",
+      "imageUrl": "https://img.freepik.com/premium-photo/indian-popular-dessert-gulab-jamun_55610-3438.jpg?w=2000",
+      "imageHint": "gulab jamun"
+    },
+    {
+      "id": "menu-rasgulla",
+      "description": "Spongy cottage cheese balls",
+      "imageUrl": "https://img.freepik.com/premium-photo/rasgulla-symphony-ar-c_839793-183301.jpg",
+      "imageHint": "rasgulla"
+    },
+    {
+      "id": "menu-black-forest-cake",
+      "description": "Chocolate cake with cream",
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.3ieD0DrLbawptvDw8j4V0wHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "imageHint": "chocolate cake"
+    },
+    {
+      "id": "menu-ice-cream",
+      "description": "Chilled ice cream scoop",
+      "imageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/homemade-ice-cream-recipe.jpg",
+      "imageHint": "ice cream"
+    },
+    {
+      "id": "menu-lemon-juice",
+      "description": "Fresh lemon juice",
+      "imageUrl": "https://cdn.sixtyandme.com/wp-content/uploads/2015/04/Sixty-and-Me-Good-Morning-Sunshine-It%E2%80%99s-Time-to-Experience-the-Health-Benefits-of-Lemon-Juice.jpg",
+      "imageHint": "lemon juice"
+    },
+    {
+      "id": "menu-falooda",
+      "description": "Rose flavored dessert drink",
+      "imageUrl": "https://food-fanatic-res.cloudinary.com/iu/s--nDa4EiiT--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1463137417/attachment/file-1-falooda.jpg",
+      "imageHint": "falooda"
+    },
+    {
+      "id": "menu-laddu",
+      "description": "Traditional sweet laddu",
+      "imageUrl": "https://findit-resources.s3.amazonaws.com/trending_items/1666858825331.webp",
+      "imageHint": "laddu sweet"
+    },
+    {
+      "id": "menu-palkova",
+      "description": "Milk-based sweet delicacy",
+      "imageUrl": "https://m.media-amazon.com/images/I/51qJPFl+3KS._SL1000_.jpg",
+      "imageHint": "milk sweet"
+    },
+    {
+      "id": "menu-honey-cake",
+      "description": "Soft cake with honey flavor",
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.RBEjPqVH2oRxwNUOJ73dUwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "imageHint": "honey cake"
+    },
+    {
+      "id": "menu-parotta",
+      "description": "Layered flatbread",
+      "imageUrl": "https://farm9.staticflickr.com/8628/16023206193_a6fd1310de_o.jpg",
+      "imageHint": "parotta bread"
+    },
+    {
+      "id": "menu-kothu-parotta",
+      "description": "Shredded parotta with spices",
+      "imageUrl": "https://www.licious.in/blog/wp-content/uploads/2020/06/KUTTU-PORATTA-750x750.jpg",
+      "imageHint": "kothu parotta"
+    },
+    {
+      "id": "menu-curd-rice",
+      "description": "Rice with curd",
+      "imageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/curd-rice-thayir-sadam.jpg",
+      "imageHint": "curd rice"
+    },
+    {
+      "id": "menu-mint-rice",
+      "description": "Mint flavored rice",
+      "imageUrl": "https://www.sandyathome.com/wp-content/uploads/2019/09/mint-rice.jpg",
+      "imageHint": "mint rice"
+    },
+    {
+      "id": "menu-tamarind-rice",
+      "description": "Tamarind flavored rice",
+      "imageUrl": "https://vanitascorner.com/wp-content/uploads/2023/05/puliyogare-FB.jpg",
+      "imageHint": "tamarind rice"
+    },
+    {
+      "id": "menu-dal-rice",
+      "description": "Rice with dal",
+      "imageUrl": "https://media.30seconds.com/tip/lg/Red-Lentil-Dal-Rice-Recipe-34072-eff47d38bc-1636485374.jpg",
+      "imageHint": "dal rice"
+    },
+    {
+      "id": "menu-potato-fry",
+      "description": "Fried potatoes",
+      "imageUrl": "https://i.ytimg.com/vi/XGEqyzhTM1w/maxresdefault.jpg",
+      "imageHint": "potato fry"
+    },
+    {
+      "id": "menu-adai",
+      "description": "Lentil dosa",
+      "imageUrl": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/04/adai-dosa-1.jpg",
+      "imageHint": "adai dosa"
+    },
+    {
+      "id": "menu-idiyappam",
+      "description": "Steamed rice noodles",
+      "imageUrl": "https://aromacookbook.files.wordpress.com/2023/02/idiyappam-peas-curry-12.jpg?w=1500",
+      "imageHint": "rice noodles"
+    },
+    {
+      "id": "menu-kottan-choru",
+      "description": "Mixed rice meal",
+      "imageUrl": "http://3.bp.blogspot.com/-3IzcsXPlTA4/VMJkeo276tI/AAAAAAAAF0s/rQLpR49ZeZE/s1600/IMG_20150109_142434.jpg",
+      "imageHint": "mixed rice"
+    },
+    {
+      "id": "menu-full-meals",
+      "description": "South Indian meals",
+      "imageUrl": "https://as2.ftcdn.net/v2/jpg/00/88/20/67/1000_F_88206782_jWghuabNP4lgusju0T0KaFNKSblgPuIz.jpg",
+      "imageHint": "indian thali"
+    },
+    {
+      "id": "menu-lemon-rice",
+      "description": "Lemon flavored rice",
+      "imageUrl": "https://www.flavourstreat.com/wp-content/uploads/2020/12/turmeric-lemon-rice-recipe-02-500x500.jpg",
+      "imageHint": "lemon rice"
+    },
+    {
+      "id": "menu-shawarma",
+      "description": "Meat wrap",
+      "imageUrl": "https://content.thriveglobal.com/wp-content/uploads/2018/07/Chicken-Shawarma.jpg",
+      "imageHint": "shawarma wrap"
+    },
+    {
+      "id": "menu-chapathi",
+      "description": "Wheat flatbread",
+      "imageUrl": "https://www.krumpli.co.uk/wp-content/uploads/2023/05/Homemade-Indian-Chapati-05-900x1200.jpg",
+      "imageHint": "chapathi bread"
+    },
+    {
+      "id": "menu-butter-chapathi",
+      "description": "Wheat flatbread with butter",
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.dPw6yr_iO4Lb4-pO5VJhhwHaHs?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "imageHint": "chapathi butter"
+    },
+    {
+      "id": "menu-egg-biryani",
+      "description": "Biryani with eggs",
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.4gNX6UVizlNxcktWmA6i5gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "imageHint": "egg biryani"
+    },
+    {
+      "id": "menu-prawn-biryani",
+      "description": "Biryani with prawns",
+      "imageUrl": "https://hungryforever.net/wp-content/uploads/2017/11/hyderabadi-prawn-biryani-recipe.jpg",
+      "imageHint": "prawn biryani"
+    },
+    {
+      "id": "menu-mushroom-fry",
+      "description": "Fried mushrooms",
+      "imageUrl": "https://www.spiceindiaonline.com/wp-content/uploads/2020/07/Photo_1593905100097-scaled.jpg",
+      "imageHint": "mushroom fry"
+    },
+    {
+      "id": "menu-fried-rice",
+      "description": "Vegetable fried rice",
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.E_O9KEDECrPnt5p4H0M9jwHaE9?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "imageHint": "fried rice"
+    },
+    {
+      "id": "menu-barbecue-chicken",
+      "description": "Grilled chicken",
+      "imageUrl": "http://3.bp.blogspot.com/-lPIFcRKn-rc/T--4JqBKPcI/AAAAAAAAAZo/1k7Wgrqg4IY/s1600/bbq+chicken.jpg",
+      "imageHint": "bbq chicken"
+    },
+    {
+      "id": "menu-mango-chat",
+      "description": "Raw mango snack",
+      "imageUrl": "https://i.ytimg.com/vi/HnnMtJIlXxI/maxresdefault.jpg",
+      "imageHint": "mango salad"
+    },
+    {
+      "id": "menu-masala-pori",
+      "description": "Spiced puffed rice",
+      "imageUrl": "https://i0.wp.com/gomathirecipes.com/wp-content/uploads/2022/11/masalapori.jpg?fit=1200%2C675&ssl=1",
+      "imageHint": "puffed rice"
+    },
+    {
+      "id": "menu-thattai-chat",
+      "description": "Crispy thattai snack",
+      "imageUrl": "https://i.pinimg.com/originals/18/ac/65/18ac65866e0950df18119bb7fa7e27f9.jpg",
+      "imageHint": "crispy snack"
+    },
+    {
+      "id": "menu-samosa",
+      "description": "Fried potato snack",
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.9cd5aubJTQzVbCuIHJtYTwHaGl?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "imageHint": "samosa snack"
+    },
+    {
+      "id": "menu-bajji",
+      "description": "Fried gram flour snack",
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.rrqhzw3v6Kd5kqTwz3GcGAHaJY?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "imageHint": "bajji snack"
+    },
+    {
+      "id": "menu-bonda",
+      "description": "Fried potato balls",
+      "imageUrl": "https://wallpapercave.com/wp/wp10157280.jpg",
+      "imageHint": "bonda snack"
+    },
+    {
+      "id": "menu-soup",
+      "description": "Vegetable soup",
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/03/17/17/33/potato-soup-2152254_1280.jpg",
+      "imageHint": "vegetable soup"
+    },
+    {
+      "id": "menu-poli",
+      "description": "Sweet flatbread",
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.BRE0FVxirdKJBZ98HUNeNQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "imageHint": "sweet bread"
+    },
+    {
+      "id": "menu-sundal",
+      "description": "Boiled legume snack",
+      "imageUrl": "https://www.emmasroadmap.com/wp-content/uploads/2020/06/Shundal--scaled.jpg",
+      "imageHint": "legume salad"
+    },
+    {
+      "id": "menu-kachayam",
+      "description": "Fried sweet snack",
+      "imageUrl": "https://www.kannammacooks.com/wp-content/uploads/pazha-kachayam-banana-kajjaya-tamil-recipe-1.jpg",
+      "imageHint": "sweet snack"
+    }
+  ]
+}
